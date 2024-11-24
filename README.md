@@ -5,7 +5,6 @@
 - 🔍 Passionate about data science, fintech, and creative projects.  
 - 🧠 Skilled in **Python**, **SQL**, **Tableau**, **hypothesis testing**, **feature engineering**, and **data visualizations**. 
 
----
 
 ### 🏆 Projects 
 1. **Projects**  
@@ -14,18 +13,15 @@
 2. **Research & Writing**  
    - Exploring the **impact of fintech** on traditional banking services, focusing on partnerships and innovations.  
 
----
 
 ### 🌟 Skills  
 - **Data Tools:** Python, SQL, Excel, Tableau
 - **Other Expertise:** Hypothesis Testing, Feature Engineering, Storytelling  
 
----
 
 ### 📈 My Goals  
 - 📚 Deepen my expertise in **data science** with projects in fintech domain.  
 
----
 
 ### 📬 Connect with Me  
 - 🌐 [LinkedIn](https://linkedin.com/in/mohammedganih)     
