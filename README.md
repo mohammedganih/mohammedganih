@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm **Mohammed Gani**  
+**Senior Data Analyst**
 
-<!--
-**mohammedganih/mohammedganih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 About Me
+- 🔍 Passionate about data science, fintech, and creative projects.  
+- 🧠 Skilled in **Python**, **SQL**, **hypothesis testing**, **feature engineering**, and **data visualizations**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Projects 
+1. **Projects**  
+   - I have worked on various projects that helped me shape my epertise in data domain. [Projects]('https://github.com/mohammedganih/portfolio-guide')
+
+2. **Research & Writing**  
+   - Exploring the **impact of fintech** on traditional banking services, focusing on partnerships and innovations.  
+
+---
+
+### 🌟 Skills  
+- **Data Tools:** Python, SQL, Excel VBA, Power BI, PI Vision  
+- **Creative Tools:** Adobe Premiere Pro, Canva, Stop Motion Studio  
+- **Other Expertise:** Hypothesis Testing, Feature Engineering, Visual Storytelling  
+
+---
+
+### 📈 My Goals  
+- 📚 Deepen my expertise in **data science** with projects in fintech domain.  
+
+---
+
+### 📬 Connect with Me  
+- 🌐 [LinkedIn](https://linkedin.com/in/mohammedganih)     
+- 📧 Email: gani.mohammed.h@gmail.com  
+
+---
