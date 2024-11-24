@@ -7,11 +7,8 @@
 
 
 ### 🏆 Projects 
-1. **Projects**  
-   - I have worked on various projects that helped me shape my epertise in data domain. [Projects](https://github.com/mohammedganih/portfolio-guide)
-
-2. **Research & Writing**  
-   - Exploring the **impact of fintech** on traditional banking services, focusing on partnerships and innovations.  
+- **Projects:** I have worked on various projects that helped me shape my expertise in the data domain. [Projects](https://github.com/mohammedganih/portfolio-guide)
+- **Research & Writing:** Exploring the **impact of fintech** on traditional banking services, focusing on partnerships and innovations.  
 
 
 ### 🌟 Skills  
